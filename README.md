@@ -169,11 +169,3 @@ Pull requests are welcome.
 For major changes, please create an issue first.
 
 ---
-
-## 📜 License
-
-MIT License.
-
----
-
-Just tell me!
